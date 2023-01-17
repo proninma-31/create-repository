@@ -141,3 +141,4 @@ git commit -m "remove file"
 
 ~~~
 git branch -m <старое название> <новое название>
+
